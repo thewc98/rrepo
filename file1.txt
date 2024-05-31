@@ -1,1 +1,3 @@
-First line in file1.txt \n
+First line in file1.txt
+Second line in file1.txt
+
